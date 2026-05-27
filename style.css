@@ -1,0 +1,7 @@
+function showMessage(){
+    alert("Thanks for visiting my Portfolio!");
+}
+.logo{
+    width:150px;
+    height:150px;
+}
